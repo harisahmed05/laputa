@@ -2,5 +2,5 @@
 
 # Laputa Programming Language
 
-a programming language written in Go for education purposes
+a programming language written in Go for learning purposes
 
